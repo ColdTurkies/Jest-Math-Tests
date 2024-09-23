@@ -1,0 +1,18 @@
+{
+  "name": "math.test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "presets": ["@babel/preset-env"],
+  "scripts": {
+    "start":"jest",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
